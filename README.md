@@ -39,6 +39,7 @@ The analysis of the election results shows that:
 	* Diana DeGette who received 73.8% of the vote and 272,892 votes
 
 In addition to the above recap below is the print screen of the results from the terminal and here is a link to results in the [election analysis.txt](https://github.com/timbialek/Election_Analysis/blob/main/Resources/Election_Results_Text.PNG)
+
 ![](https://github.com/timbialek/Election_Analysis/blob/main/Resources/Election_Results_Terminal.PNG) 
 
 ## Summary
